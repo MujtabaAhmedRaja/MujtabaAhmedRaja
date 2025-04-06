@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MujtabaAhmedRaja
-- I am Python Developer and proficient with Java, Cryptography, Data Analysis, Data Science and Machine/Deep Learning.
+- I am Python Developer and proficient with Java EE, Cryptography, Data Analysis, Data Science and Machine/Deep Learning.
 - You can reach me via email rajamujtabaofficial@gmail.com
